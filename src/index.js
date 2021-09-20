@@ -8,7 +8,7 @@ import App from "./App";
 import "antd/dist/antd.css";
 ReactDOM.render(
   <Router>
-    <Provider strore={store}>
+    <Provider store={store}>
       <App />
     </Provider>
   </Router>,
