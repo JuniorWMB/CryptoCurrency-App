@@ -10,6 +10,8 @@ const {Title}= Typography
 const Homepage = () => {
     const {data,isFetching}= useGetCryptosQuery
     console.log('data',data);
+
+    if(isFetching) return
     return (
         <>
             <Title level={2} className="heading">
