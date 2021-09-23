@@ -46,6 +46,14 @@ const App = () => {
           >
             CryptoLook <br />
             Product By Junior Wembopa <br />
+            <a
+              href="https://www.juniorwembopaportfolio.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              My Portfolio
+            </a>
+            <br />
             All rights reservered
           </Typography.Title>
           <Space>
