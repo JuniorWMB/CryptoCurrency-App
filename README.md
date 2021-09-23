@@ -3,7 +3,7 @@
 
 
 ## Demo Link
-You can find the project here => [CryptoLookApp] (https://cryptolookapp.netlify.app/news)
+You can find the project here => [CryptoLookApp](https://cryptolookapp.netlify.app/news)
 
 
 ## Table of Conent
@@ -11,7 +11,9 @@ You can find the project here => [CryptoLookApp] (https://cryptolookapp.netlify.
 In the project directory, you can run:
 
 ## Screenshots
-![Hnet-image (1)](https://user-images.githubusercontent.com/59845983/134583822-bdd8f779-a04c-4d0f-8c92-4179b72a8005.gif)
+![Hnet-image (2)](https://user-images.githubusercontent.com/59845983/134584624-cfcaf576-e1fd-482d-97d3-f23c96528464.gif)
+
+
 ## Tools
 
 Launches the test runner in the interactive watch mode.\
