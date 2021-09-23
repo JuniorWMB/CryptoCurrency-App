@@ -1,7 +1,6 @@
+<p align="center">
 ![CryptoLookApp](https://user-images.githubusercontent.com/59845983/134577063-2774a4a0-7344-4c17-99dc-d0d8c502103b.png)
-
-
-
+</>
 
 # CryptoLookApp
 
