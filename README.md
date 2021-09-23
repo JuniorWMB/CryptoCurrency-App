@@ -1,7 +1,13 @@
+![CryptoLookApp](https://user-images.githubusercontent.com/59845983/134577063-2774a4a0-7344-4c17-99dc-d0d8c502103b.png)
+
+
+
+
 # CryptoLookApp
 
+
 ## Demo Link
-You can find the project here => https://cryptolookapp.netlify.app/news
+You can find the project here => [CryptoLookApp] (https://cryptolookapp.netlify.app/news)
 
 
 ## Table of Conent
@@ -10,26 +16,31 @@ In the project directory, you can run:
 
 ## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Capture d’écran 2021-09-23 à 21 40 36](https://user-images.githubusercontent.com/59845983/134577180-01fa7230-dbe6-4c3f-b596-fae38d0982c5.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![Capture d’écran 2021-09-23 à 21 40 50](https://user-images.githubusercontent.com/59845983/134577218-5488b627-13bd-4cc1-9a12-936d7326c29f.png)
+
+![Capture d’écran 2021-09-23 à 21 41 05](https://user-images.githubusercontent.com/59845983/134577257-4f78a959-ef3c-4b5d-b0c0-dfe541565891.png)
+
+![Capture d’écran 2021-09-23 à 21 41 18](https://user-images.githubusercontent.com/59845983/134577327-c945125b-ab47-4e64-b777-c2f0ce62a645.png)
 
 ## Tools
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Setup
+## Installation and Setup Instructions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clone down this repository. You will need node and npm installed globally on your machine.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Installation:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm install
+
+To Start Server:
+
+npm start
+
 
 ## Approach
 
