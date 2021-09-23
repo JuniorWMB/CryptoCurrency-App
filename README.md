@@ -1,9 +1,4 @@
-<p align="center">
-![CryptoLookApp](https://user-images.githubusercontent.com/59845983/134577063-2774a4a0-7344-4c17-99dc-d0d8c502103b.png)
-</>
-
-# CryptoLookApp
-
+![CryptoLookApp (1)](https://user-images.githubusercontent.com/59845983/134578769-a718c0eb-8384-477f-a2fa-795cae6ff5db.png)
 
 ## Demo Link
 You can find the project here => [CryptoLookApp] (https://cryptolookapp.netlify.app/news)
