@@ -1,4 +1,6 @@
-![CryptoLookApp (1)](https://user-images.githubusercontent.com/59845983/134578769-a718c0eb-8384-477f-a2fa-795cae6ff5db.png)
+![CryptoLookApp (2)](https://user-images.githubusercontent.com/59845983/134578979-b225179d-0837-4c98-bbb9-d619c29caae6.png)
+
+
 
 ## Demo Link
 You can find the project here => [CryptoLookApp] (https://cryptolookapp.netlify.app/news)
