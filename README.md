@@ -11,15 +11,7 @@ You can find the project here => [CryptoLookApp] (https://cryptolookapp.netlify.
 In the project directory, you can run:
 
 ## Screenshots
-![Hnet com-image (1)](https://user-images.githubusercontent.com/59845983/134581748-ce792894-2379-494b-99b0-6a37cbc50e69.gif)
-
-![Capture d’écran 2021-09-23 à 21 40 36](https://user-images.githubusercontent.com/59845983/134577180-01fa7230-dbe6-4c3f-b596-fae38d0982c5.png)
-
-![Capture d’écran 2021-09-23 à 21 40 50](https://user-images.githubusercontent.com/59845983/134577218-5488b627-13bd-4cc1-9a12-936d7326c29f.png)
-
-![Capture d’écran 2021-09-23 à 21 41 05](https://user-images.githubusercontent.com/59845983/134577257-4f78a959-ef3c-4b5d-b0c0-dfe541565891.png)
-
-![Capture d’écran 2021-09-23 à 21 41 18](https://user-images.githubusercontent.com/59845983/134577327-c945125b-ab47-4e64-b777-c2f0ce62a645.png)
+![Hnet-image](https://user-images.githubusercontent.com/59845983/134582674-591a8b9b-ef9b-4249-a9b7-c7fe6314d4e5.gif)
 
 ## Tools
 
