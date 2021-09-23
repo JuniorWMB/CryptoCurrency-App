@@ -11,8 +11,7 @@ You can find the project here => [CryptoLookApp] (https://cryptolookapp.netlify.
 In the project directory, you can run:
 
 ## Screenshots
-![Hnet-image](https://user-images.githubusercontent.com/59845983/134582674-591a8b9b-ef9b-4249-a9b7-c7fe6314d4e5.gif)
-
+![Hnet-image (1)](https://user-images.githubusercontent.com/59845983/134583822-bdd8f779-a04c-4d0f-8c92-4179b72a8005.gif)
 ## Tools
 
 Launches the test runner in the interactive watch mode.\
