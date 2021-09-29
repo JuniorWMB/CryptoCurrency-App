@@ -3,7 +3,7 @@
 
 
 ## Demo Link
-You can find the project here => [CryptoLookApp](https://cryptolookapp.netlify.app/news)
+You can find the project here => [CryptoLookApp](https://cryptolookapp.netlify.app)
 
 
 ## Table of Conent
